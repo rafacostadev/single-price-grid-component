@@ -144,6 +144,10 @@ body{
     border-bottom-left-radius: 6px;
   }
 
+  .container{
+    height: 150vh;
+  }
+
   .content div{
     max-width: 375px;
     text-align: center;
